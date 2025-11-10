@@ -1,5 +1,5 @@
-## Hi there 👋
-# <span style="color: red;">This text will be red.</span>
+## Welcome to my GitHub ^_^
+About Me:
 * Location: Indiana, USA
 
 
