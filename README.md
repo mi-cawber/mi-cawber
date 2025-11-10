@@ -1,5 +1,5 @@
 ## Hi there 👋
-# [blue] About Me [/blue]
+# <span style="color: red;">This text will be red.</span>
 * Location: Indiana, USA
 
 
