@@ -2,7 +2,7 @@
 
 <div align='left' style='background-color: white'>
   <img align='right' src="https://github.com/user-attachments/assets/390853c2-6c37-4203-9d77-0a924fe00fb0" alt="glow_run" width="180" />
-- 📚 CS master's student
+
 - 🔭 I’m currently working on data pipelines for Alzheimer's research
 - 🌱 I’m currently learning Python, zshell
 - 🛜 Website: https://mi-cawber.github.io
