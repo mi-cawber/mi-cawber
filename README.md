@@ -4,3 +4,5 @@
 - 🌱 I’m currently learning Python, zshell
 - 📫 How to reach me: waltwest@outlook.com
 - ⚡ Fun fact: my favorite composer is Chopin
+![glow_run](https://github.com/user-attachments/assets/390853c2-6c37-4203-9d77-0a924fe00fb0?width=100&align=right)
+<img src='assets/glow_run.gif/>
