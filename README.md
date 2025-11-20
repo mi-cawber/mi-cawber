@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on data pipelines for Alzheimer's research
 - 🌱 I’m currently learning Python, zshell
-- 🛜 Website: https://mi-cawber.github.io
+- 🧑🏻‍💻 Website: https://mi-cawber.github.io
+- 🎥 YouTube: https://www.youtube.com/@PurelyHuman3
+- 🛜 Twitch: https://www.twitch.tv/venv_io
 - 📫 How to reach me: waltwest@outlook.com
 - ⚡ Fun fact: my favorite composer is Chopin
 
