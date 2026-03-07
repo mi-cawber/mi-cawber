@@ -4,7 +4,7 @@
   <img align='right' src="https://github.com/user-attachments/assets/390853c2-6c37-4203-9d77-0a924fe00fb0" alt="glow_run" width="180" />
 
 - 🔭 I’m currently working on data pipelines for Alzheimer's research
-- 🌱 I’m currently learning Python, zshell
+- 🌱 I’m currently learning C, Python, zshell, SQLite
 - 🧑🏻‍💻 Website: https://mi-cawber.github.io
 - 🎥 YouTube: https://www.youtube.com/@venv_io
 - 🛜 Twitch: https://www.twitch.tv/venv_io
