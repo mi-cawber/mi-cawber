@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on data pipelines for Alzheimer's research and baseball statistics
 - 🌱 I’m currently learning C, Python, zshell, SQLite
-- 🧑🏻‍💻 Website: https://mi-cawber.github.io
+- 🧑🏻‍💻 Website: https://venvio.blog
 - 🎥 YouTube: https://www.youtube.com/@venv_io
 - 📫 How to reach me: waltwest@outlook.com
 - ⚡ Fun fact: my favorite composer is Chopin
